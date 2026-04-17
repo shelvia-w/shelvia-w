@@ -29,6 +29,6 @@ AI Safety Researcher
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shelvia-w)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=shelvia-w&theme=flat&no-frame=true&margin-w=10&row=1" />
 
 </div>
