@@ -2,7 +2,7 @@
 
 # Shelvia Wongso 🌸
 
-AI Safety · Uncertainty · Trustworthy ML
+AI Safety Researcher
 
 <img src="https://komarev.com/ghpvc/?username=shelvia-w&style=flat-square&color=blueviolet" />
 
