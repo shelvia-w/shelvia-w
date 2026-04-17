@@ -29,6 +29,6 @@ AI Safety Researcher
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shelvia-w&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shelvia-w)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
