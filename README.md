@@ -19,8 +19,8 @@ AI Safety Researcher
 
 ## Featured Projects
 
-- [AI Safety Corner](https://shelvia-w.github.io/AI-Safety-Corner/)
-- [Positional Encoding Visualizer](https://shelvia-w.github.io/positional-encoding-visualizer/)
+[AI Safety Corner](https://shelvia-w.github.io/AI-Safety-Corner/)
+[Positional Encoding Visualizer](https://shelvia-w.github.io/positional-encoding-visualizer/)
 
 ---
 
