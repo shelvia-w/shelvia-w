@@ -23,6 +23,10 @@ AI Safety Researcher
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=AI-Safety-Corner&hide_border=true&theme=transparent" />
 </a>
 
+<a href="https://shelvia-w.github.io/positional-encoding-visualizer/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=positional-encoding-visualizerr&hide_border=true&theme=transparent" />
+</a>
+
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelvia-w&theme=github-compact&hide_border=true" />
