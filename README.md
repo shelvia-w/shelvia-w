@@ -24,6 +24,13 @@ AI Safety Researcher
 
 ---
 
+## Featured Research
+
+[Sliced Mutual Information for Deep Neural Network Analysis (AISTATS 2023, Oral)](https://github.com/shelvia-w/SMI-DNN)
+[Pointwise Information Measures for Uncertainty and Explainability (ICML 2025)](https://github.com/shelvia-w/Pointwise-Information-Measures) 
+
+---
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelvia-w&theme=github-compact&hide_border=true" />
 
 </div>
