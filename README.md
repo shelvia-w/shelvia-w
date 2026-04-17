@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shelvia Wongso 🌸
+# 🌸 Shelvia Wongso 🌸
 
 AI Safety Researcher
 
