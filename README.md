@@ -24,7 +24,7 @@ AI Safety Researcher
 </a>
 
 <a href="https://shelvia-w.github.io/positional-encoding-visualizer/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=positional-encoding-visualizerr&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=positional-encoding-visualizer&hide_border=true&theme=transparent" />
 </a>
 
 ---
