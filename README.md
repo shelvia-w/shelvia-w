@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shelvia-w/shelvia-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shiro 🌱
 
-Here are some ideas to get you started:
+AI Safety · Uncertainty · Trustworthy ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=shelvia-w&style=flat-square&color=blueviolet" />
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=shelvia-w&show_icons=true&hide_border=true&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelvia-w&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+---
+
+<img src="https://streak-stats.demolab.com?user=shelvia-w&theme=transparent&hide_border=true" />
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shelvia-w&theme=github-compact&hide_border=true" />
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=shelvia-w&theme=flat&no-frame=true&margin-w=10&row=1" />
+
+---
+
+### Building
+
+`AI Safety Corner` · `Possibilistic Inference` · `Research Tools`
+
+</div>
