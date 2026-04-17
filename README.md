@@ -23,10 +23,6 @@ AI Safety Researcher
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=AI-Safety-Corner&hide_border=true&theme=transparent" />
 </a>
 
-<a href="https://github.com/shelvia-w/YOUR-REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=YOUR-REPO-NAME&hide_border=true&theme=transparent" />
-</a>
-
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelvia-w&theme=github-compact&hide_border=true" />
