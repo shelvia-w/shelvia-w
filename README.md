@@ -23,10 +23,4 @@ AI Safety Researcher
 
 <img src="https://github-profile-trophy.vercel.app/?username=shelvia-w&theme=flat&no-frame=true&margin-w=10&row=1" />
 
----
-
-### Building
-
-`AI Safety Corner` · `Possibilistic Inference` · `Research Tools`
-
 </div>
