@@ -19,14 +19,8 @@ AI Safety Researcher
 
 ## Featured Projects
 
-<a href="https://shelvia-w.github.io/AI-Safety-Corner/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=AI-Safety-Corner&hide_border=true&theme=transparent" />
-</a>
-
-
-<a href="https://shelvia-w.github.io/positional-encoding-visualizer/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shelvia-w&repo=positional-encoding-visualizer&hide_border=true&theme=transparent" />
-</a>
+- [AI Safety Corner](https://shelvia-w.github.io/AI-Safety-Corner/)
+- [Positional Encoding Visualizer](https://shelvia-w.github.io/positional-encoding-visualizer/)
 
 ---
 
