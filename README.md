@@ -20,7 +20,7 @@ AI Safety Researcher
 ## Featured Projects
 
 [AI Safety Corner](https://shelvia-w.github.io/AI-Safety-Corner/) <br />
-[A-to-Z Vibes](https://shelvia-w.github.io/A-to-Z-vibes/) <br />
+[A-to-Z Vibes](https://shelvia-w.github.io/a-to-z-vibes/) <br />
 [Aesthetic LeetCode](https://shelvia-w.github.io/aesthetic-leetcode/) <br />
 [Aesthetic Puzzles](https://shelvia-w.github.io/aesthetic-puzzles/)
 
