@@ -21,7 +21,7 @@ AI Safety Researcher
 
 [AI Safety Corner](https://shelvia-w.github.io/AI-Safety-Corner/) <br />
 [A-to-Z Vibes](https://shelvia-w.github.io/A-to-Z-vibes/) <br />
-[Positional Encoding Visualizer](https://shelvia-w.github.io/positional-encoding-visualizer/)
+[Aesthetic LeetCode](https://shelvia-w.github.io/aesthetic-leetcode/)
 
 ---
 
