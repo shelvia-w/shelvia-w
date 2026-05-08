@@ -2,6 +2,10 @@
 
 # 🌸 Shelvia Wongso 🌸
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+Researcher+%E2%9C%A8;Exploring+AI+safety+and+uncertainty;Making+ML+more+understandable+%F0%9F%8C%B8" />
+</p>
+
 AI Safety Researcher
 
 <img src="https://komarev.com/ghpvc/?username=shelvia-w&style=flat-square&color=blueviolet" />
