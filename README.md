@@ -8,8 +8,8 @@ AI Safety Researcher
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=shelvia-w&show_icons=true&hide_border=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelvia-w&layout=compact&hide_border=true&theme=transparent" height="165" />
+<img src="https://shelvia-github-readme-stats.vercel.app/api?username=shelvia-w&show_icons=true&hide_border=true&theme=transparent" height="165" />
+<img src="https://shelvia-github-readme-stats.vercel.app/api/top-langs/?username=shelvia-w&layout=compact&hide_border=true&theme=transparent" height="165" />
 
 ---
 
