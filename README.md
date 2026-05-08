@@ -28,7 +28,9 @@
 
 ---
 
-## Featured Research
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&color=F7A8B8&size=18&duration=1&pause=999999&repeat=false&center=true&vCenter=true&width=650&lines=Featured+Research" />
+</p>
 
 [Sliced Mutual Information for Deep Neural Network Analysis](https://github.com/shelvia-w/SMI-DNN) (AISTATS 2023, Oral) <br />
 [Pointwise Information Measures for Uncertainty and Explainability](https://github.com/shelvia-w/Pointwise-Information-Measures) (ICML 2025)
