@@ -26,8 +26,6 @@ AI Safety Researcher
 
 ---
 
-<img src="https://shelvia-github-profile-trophy.vercel.app/?username=shelvia-w&theme=flat&no-frame=true&margin-w=10&row=1" />
-
 ## Featured Research
 
 [Sliced Mutual Information for Deep Neural Network Analysis](https://github.com/shelvia-w/SMI-DNN) (AISTATS 2023, Oral) <br />
@@ -38,3 +36,7 @@ AI Safety Researcher
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelvia-w&theme=github-compact&hide_border=true" />
 
 </div>
+
+---
+
+<img src="https://shelvia-github-profile-trophy.vercel.app/?username=shelvia-w&theme=flat&no-frame=true&margin-w=10&row=1" />
