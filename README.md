@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&color=F7A8B8&size=22&duration=1&pause=999999&repeat=false&center=true&vCenter=true&width=650&lines=Featured+Research" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&color=F7A8B8&size=22&duration=1&pause=999999&repeat=false&center=true&vCenter=true&width=650&lines=Featured+Research" />
 </p>
 
 [Sliced Mutual Information for Deep Neural Network Analysis](https://github.com/shelvia-w/SMI-DNN) (AISTATS 2023, Oral) <br />
