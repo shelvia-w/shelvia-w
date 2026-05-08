@@ -39,3 +39,8 @@
 
 </div>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&color=F7A8B8&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting+%F0%9F%8C%B7" />
+</p>
