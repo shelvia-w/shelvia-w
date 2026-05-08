@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&color=F7A8B8&size=18&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B7+Thank+you+for+visiting+%F0%9F%8C%B7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&color=F7A8B8&size=18&duration=1&pause=999999&repeat=false&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B7+Thank+you+for+visiting+%F0%9F%8C%B7" />
 </p>
