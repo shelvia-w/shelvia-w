@@ -19,7 +19,9 @@
 
 ---
 
-## Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=F7A8B8&size=22&duration=1&pause=999999&repeat=false&center=true&vCenter=true&width=650&lines=Featured+Projects" />
+</p>
 
 [AI Safety Corner](https://shelvia-w.github.io/AI-Safety-Corner/) <br />
 [A-to-Z Vibes](https://shelvia-w.github.io/a-to-z-vibes/) <br />
