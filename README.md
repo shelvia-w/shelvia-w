@@ -37,6 +37,3 @@ AI Safety Researcher
 
 </div>
 
----
-
-<img src="https://shelvia-github-profile-trophy.vercel.app/?username=shelvia-w&theme=flat&no-frame=true&margin-w=10&row=1" />
